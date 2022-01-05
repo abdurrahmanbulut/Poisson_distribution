@@ -216,13 +216,13 @@ def barplot(actual_cases, predicted_cases):
 #  =====================================================================
 
 # question a
-# print_p_a()
+print_p_a()
 
 # question b
-# print(my_lambda())
+print(my_lambda())
 
 # question c
-# print_act_predic(actual_cases, predicted_cases)
+print_act_predic(actual_cases, predicted_cases)
 
 #question d
 barplot(actual_cases, predicted_cases)
